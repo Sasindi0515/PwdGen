@@ -1,2 +1,3 @@
 # PwdGen
-Simple password generator that using python   
+
+Simple password generator that using python library
